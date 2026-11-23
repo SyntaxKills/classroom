@@ -16,7 +16,7 @@ Plataforma web interativa de simulados acadêmicos desenvolvida para estudantes 
 </a>
 </p>
 
-​### 📌 Sobre o CLASSROOM
+ ### 📌 Sobre o CLASSROOM
 
 O CLASSROOM é uma plataforma web de estudos para ADS, com simulados por semestre e disciplina, feedback imediato e acompanhamento do desempenho.
 
