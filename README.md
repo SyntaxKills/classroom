@@ -1,4 +1,4 @@
-<h1 align="center">CLASSROOM — Plataforma de Estudos ADS</h1>
+<h1 align="center">CLASSROOM</h1>
 ​<p align="center">
 Plataforma web interativa de simulados acadêmicos desenvolvida para estudantes do curso de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.
 </p>
