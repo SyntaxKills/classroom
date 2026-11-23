@@ -52,5 +52,5 @@ Reforçar o aprendizado, identificar dificuldades e revisar conteúdos por meio 
 
 * Progressão de dificuldade e sistema de notas aprimorados.
 
-```Este repositório está sujeito a atualizações.```
+> este repositório está sujeito a atualizações.
 
